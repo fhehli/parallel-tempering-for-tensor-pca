@@ -1,5 +1,5 @@
 # Parallel Tempering for Tensor PCA
-This repo contains the code I wrote for my bachelor thesis. You can have a look at the thesis [here](https://drive.google.com/file/d/1t4w060kvyQq8v48RNOUN5ScK0dxDJrQ_/view?usp=sharing).
+This repo contains the code I wrote for my bachelor thesis. The goal was to investigate numerically the asymptotic behaviour of [parallel tempering](https://www.wikiwand.com/en/Parallel_tempering), a variant of MCMC, on the tensor PCA problem. You can have a look at the thesis [here](https://drive.google.com/file/d/1t4w060kvyQq8v48RNOUN5ScK0dxDJrQ_/view?usp=sharing).
 
 
 ## How to run
